@@ -12,6 +12,7 @@ face++ detection sdk for Golang 人脸识别api
 var (
 	apiKey    = "<Api_Key>"
 	apiSecret = "<Api_Secret>"
+  ...
 ```
 
 ###### Run test demo by following command
